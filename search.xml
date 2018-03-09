@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[python 笔记（1）]]></title>
+    <url>%2F2018%2F03%2F09%2Fpython-%E7%AC%94%E8%AE%B0%EF%BC%881%EF%BC%89%2F</url>
+    <content type="text"><![CDATA[python note 1]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[ubuntu windows10 双系统安装]]></title>
     <url>%2F2018%2F03%2F09%2Fubuntu-windows10-%E5%8F%8C%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%2F</url>
     <content type="text"><![CDATA[`ubuntu`, `系统安装`, `双系统` 1. 准备工作2. 硬盘安装 windows 103. U盘安装 ubuntu 16.044. 配置ubuntu———未完待续—————–]]></content>
